@@ -11,12 +11,10 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>SGI</title>
+        <title>Sistema de Reportes</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 			<!-- vinculo a bootstrap -->
 			<link rel="stylesheet" href="css/bootstrap.css">
-			<!-- Temas-->
-			<link rel="stylesheet" href="css/bootstrap-theme.min.css">
 			<!-- se vincula al hoja de estilo para definir el aspecto del formulario de login-->  
 			<link rel="stylesheet" type="text/css" href="text/estilo.css">
 		</head>
